@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+.card {
+  border: 2px rgba(0, 0, 0, 0.12) solid;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.12);
+  width: 400px;
+  text-align: left;
+}
+
+.facts {
+  padding: 3px;
+  margin: 10px;
+  border: 2px rgba(0, 0, 0, 0.12) solid;
+}
+
+.animal_pic {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.int_fact {
+  font-style: italic;
+}
+
+ul {
+  padding: 0 10px;
+}
+
+.facts-list {
+  text-align: left;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.type-info {
+  font-weight: bold;
+}
